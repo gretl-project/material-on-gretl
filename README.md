@@ -1,6 +1,6 @@
 <meta name="keywords" content="gretl, hansl, econometrics, statistics, datascience, economics, programming, teaching, tutorials"/>
 
-# Collection of material on gretl
+# Collection of gretl-related material
 This page includes various links to material on or using gretl and which may be useful to you.
 
 # Books
