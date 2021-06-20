@@ -36,7 +36,7 @@ TBA
 
 
 # Lecture notes & slides & guides
-TBA
+[Allin Cottrell *ECN 215 : Econometric Theory and Methods*](https://users.wfu.edu/cottrell/ecn215/)
 
 
 # Papers
