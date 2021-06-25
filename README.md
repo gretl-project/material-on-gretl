@@ -23,20 +23,30 @@ This page includes various links to material on or using gretl and which may be 
 [Link to PDF](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)
 
 
-# Blog entries
+# Blog entries and tutorials
+
+[Carlos Andrade *Noções de econometria: tutorial com aplicação do software Gretl*](https://www.academia.edu/10072595/No%C3%A7%C3%B5es_de_econometria_tutorial_com_aplica%C3%A7%C3%A3o_do_software_Gretl)
+
+[Henrique Andrade *Manual de Introdução ao Pacote Econométrico Gretl*](https://www.researchgate.net/publication/265511354_Manual_de_Introducao_ao_Pacote_Econometrico_Gretl)
+
 [Ata Tekeli *GRETL: A User-Friendly Statistical Software*](https://blog.devgenius.io/gretl-a-user-friendly-statistical-software-1edc0ce9fb81)
+
+[Rigoberto Pérez & Ana Jesús López *Econometría Aplicada con Gretl*](https://sites.google.com/view/econometriaaplicadacongretl/home)
 
 [Sonali Pandey *Dummifying Variables- Hello there, Gretl !!*](https://medium.com/analytics-vidhya/dummifying-variables-hello-there-gretl-b1e07674a43e)
 
 [Sonali Pandey *A beginner’s guide to Gretl using Simple Linear Regression*](https://medium.com/swlh/a-beginners-guide-to-gretl-using-simple-linear-regression-3023935df935)
+
+[Artur Tarassow *How to compile gretl on Ubuntu*](https://github.com/atecon/install_gretl_ubuntu)
 
 
 # Datasets
 TBA
 
 
-# Lecture notes & slides & guides
+# Lecture notes & slides
 [Allin Cottrell *ECN 215 : Econometric Theory and Methods*](https://users.wfu.edu/cottrell/ecn215/)
+
 
 
 # Papers
