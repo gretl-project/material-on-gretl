@@ -61,6 +61,9 @@ TBA
 
 # Videos
 
+### econistics.com (ENG)
+[Several video tutorials](https://econistics.com/category/gretl/)
+
 ### Justin Doran (ENG)
 [Gretl Tutorial 1 - Introduction to Gretl](http://www.justindoran.ie/gretl-tutorial-1.html)
 
