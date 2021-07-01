@@ -77,8 +77,15 @@ TBA
 
 ### Janelle Mann (ENG)
 [Various video tutorials on regression, ARIMA and cointegration modelling](https://www.janellemann.com/teaching.html)
+[Also on youtube](https://www.youtube.com/c/JanelleMann/videos)
 
 ### Markus Löcher (GER)
 [Various video tutorials on econometrics and statictis can be found here](https://media.hwr-berlin.de/search/title/gretl/description/gretl/tags/gretl/type/all/search/basic/categoriesopt/0)
 
+###  Yongconomics (ENG)
+[Various video introductory tutorials can be found here](https://www.youtube.com/channel/UCKFS2PT50_zPhP04KoOpyPA/videos)
+
+[Difference-in-Difference using gretl](https://youtu.be/fAvwNSh8oFo)
+
+[Randomized Controlled Trials (RCT) using gretl](https://youtu.be/przn5z6BELo)
 
