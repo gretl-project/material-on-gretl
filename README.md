@@ -16,6 +16,12 @@ This page includes various links to material on or using gretl and which may be 
 ### Peter Hackl *Einführung in die Ökonometrie* (GER)
 [Link to Pearson](https://www.pearson.de/einfuehrung-in-die-oekonometrie-9783868941562) (2nd ed)
 
+### Tadeusz Kufel *Ekonometria Rozwiązywanie problemów z wykorzystaniem programu GRETL* (POL)
+[Link](https://ksiegarnia.pwn.pl/Ekonometria-Rozwiazywanie-problemow-z-wykorzystaniem-programu-GRETL,68470501,p.html)
+
+### Tadeusz Kufel *Эконометрика. Решение задач с применением пакета программ GRETL* (RUS)
+[Link](http://www.kufel.torun.pl/ru/index.html)
+
 ### Jürgen Malitte & Sven Schreiber's *Ökonometrie verstehen mit Gretl* (GER)
 [Link to Springer](https://link.springer.com/book/10.1007%2F978-3-662-58275-6) (1st ed.)
 
