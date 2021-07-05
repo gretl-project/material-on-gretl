@@ -79,6 +79,10 @@ TBA
 [Various video tutorials on regression, ARIMA and cointegration modelling](https://www.janellemann.com/teaching.html)
 [Also on youtube](https://www.youtube.com/c/JanelleMann/videos)
 
+### Jan-Hendrik Meier (GER)
+[Various gretl video tutorials on basic regression as well as time-series analysis](https://www.youtube.com/channel/UC8qMLi4Gyyl1DPjArTqob6w/videos)
+
+
 ### Markus Löcher (GER)
 [Various video tutorials on econometrics and statictis can be found here](https://media.hwr-berlin.de/search/title/gretl/description/gretl/tags/gretl/type/all/search/basic/categoriesopt/0)
 
