@@ -88,9 +88,11 @@ TBA
 ### Jan-Hendrik Meier (GER)
 [Various gretl video tutorials on basic regression as well as time-series analysis](https://www.youtube.com/channel/UC8qMLi4Gyyl1DPjArTqob6w/videos)
 
-
 ### Markus Löcher (GER)
 [Various video tutorials on econometrics and statictis can be found here](https://media.hwr-berlin.de/search/title/gretl/description/gretl/tags/gretl/type/all/search/basic/categoriesopt/0)
+
+### Olesya Petrenko (RUS)
+[Youtube instructional videos for gretl in Russian can be found here](https://www.youtube.com/c/OlesyaPetrenko2014/featured)
 
 ###  Yongconomics (ENG)
 [Various video introductory tutorials can be found here](https://www.youtube.com/channel/UCKFS2PT50_zPhP04KoOpyPA/videos)
