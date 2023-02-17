@@ -8,6 +8,9 @@ This page includes various links to material on or using gretl and which may be 
 ### Lee Adkin's *Using gretl for Principles of Econometrics* (ENG)
 [Website incl. PDF, scripts and datasets](https://www.learneconometrics.com/gretl/index.html) (5th ed.)
 
+### A. Colin Cameron *ANALYSIS OF ECONOMICS DATA: AN INTRODUCTION TO ECONOMETRICS* (ENG)
+[Website incl. various materials](https://cameron.econ.ucdavis.edu/aed/)
+
 ### Dougherty *Introduction to Econometrics* (ENG)
 [Link to Oxford Univ. Press](https://global.oup.com/uk/orc/busecon/economics/dougherty5e/) (5th ed.)
 
@@ -28,6 +31,8 @@ This page includes various links to material on or using gretl and which may be 
 ### Riccardo "Jack" Lucchetti *Basic Econometrics)* (ENG)
 [Link to PDF](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)
 
+### Jordi Ripollés, Inmaculada Martínez-Zarzoso and Maite Alguacil *Dealing with Econometrics: Real World Cases with Cross-Sectional Data* (ENG)
+[Link](https://www.cambridgescholars.com/product/978-1-5275-8500-3)
 
 # Blog entries and tutorials
 
@@ -58,6 +63,8 @@ TBA
 # Papers
 [The gretl Team has the *gretl working paper series* comprising various papers on gretl](https://econpapers.repec.org/paper/ancwgretl/)
 
+[Cottrell, Allin (2017): *Hansl: a DSL for econometrics*](https://users.wfu.edu/cottrell/hansl.pdf)
+
 [Lemenkova, Polina (2019): *Regression Models by Gretl and R Statistical Packages for Data Analysis in Marine Geology*, International Journal of Environmental Trends, 3(1), pp. 39-59.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3409149#)
 
 [Shi, Juehui (2019): *Comprehensive Time-Series Regression Models Using Gretl — U.S. GDP and Government Consumption Expenditures & Gross Investment from 1980 to 2013*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2540535)
@@ -66,6 +73,8 @@ TBA
 
 
 # Videos
+
+### [The gretl Team has a youtube channel here](https://www.youtube.com/@gretlteam4908/featured)
 
 ### econistics.com (ENG)
 [Several video tutorials](https://econistics.com/category/gretl/)
