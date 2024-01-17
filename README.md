@@ -71,6 +71,9 @@ TBA
 
 [Tarassow, Artur (2019): *Practical Empirical Research Using gretl and hansl*, The Australian Economic Review](https://doi.org/10.1111/1467-8462.12324)
 
+[Tarassow, Artur (2023): *The potential of LLMs for coding with low-resource and domain-specific programming languages
+*, arXiv:2307.13018](https://arxiv.org/pdf/2307.13018.pdf)
+
 
 # Videos
 
