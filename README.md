@@ -65,6 +65,7 @@ TBA
 # Lecture notes & slides
 [Allin Cottrell *ECN 215 : Econometric Theory and Methods*](https://users.wfu.edu/cottrell/ecn215/)
 
+[Artur Tarassow: *Gretl und Hansl*](https://github.com/atecon/gretl_praesentation/blob/main/folien/2024_01_gretl_einf%C3%BChrung.pdf)
 
 
 # Papers
