@@ -7,7 +7,7 @@ This page includes various links to material on or using gretl and which may be 
 [How to handle data]([https://github.com/gretl-project/material-on-gretl/wiki](https://github.com/gretl-project/material-on-gretl/wiki))
 
 # Wikis
-- [Gretl-project Wiki on gihub](https://github.com/gretl-project/material-on-gretl/wiki)
+- [Gretl-project Wiki on github](https://github.com/gretl-project/material-on-gretl/wiki)
 - [Gretl-Team Wiki](https://gretlwiki.econ.univpm.it/index.php/Main_Page)
 
 # Books
