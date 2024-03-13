@@ -57,9 +57,12 @@ This page includes various links to material on or using gretl and which may be 
 
 [Artur Tarassow *How to compile gretl on Ubuntu*](https://github.com/atecon/install_gretl_ubuntu)
 
+[Artur Tarassow *Gretl Crash Course - Basics on how to handle datasets
+*](https://github.com/atecon/gretl_datahandling/blob/main/basics_datahandling/basics_datahandling.md)
+
 
 # Datasets
-TBA
+[Here you see an overview about textbook datasets which are available for Gretl](https://gretl.sourceforge.net/gretl_data.html)
 
 
 # Lecture notes & slides
