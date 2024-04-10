@@ -4,7 +4,7 @@
 This page includes various links to material on or using gretl and which may be useful to you.
 
 # Cheat-sheet
-[How to handle data]([https://github.com/gretl-project/material-on-gretl/wiki](https://github.com/gretl-project/material-on-gretl/wiki))
+[How to handle data](https://github.com/gretl-project/gretl_cheatsheet/blob/master/datahandling.pdf)
 
 # Wikis
 - [Gretl-project Wiki on github](https://github.com/gretl-project/material-on-gretl/wiki)
