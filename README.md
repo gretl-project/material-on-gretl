@@ -3,8 +3,9 @@
 # Collection of gretl-related material
 This page includes various links to material on or using gretl and which may be useful to you.
 
-# Cheat-sheet
-[How to handle data](https://github.com/gretl-project/gretl_cheatsheet/blob/master/datahandling.pdf)
+# Cheat-sheet & Tutorials
+- [Gretl-Team *How to handle data*](https://github.com/gretl-project/gretl_cheatsheet/blob/master/datahandling.pdf)
+- [A. Tarassow *Gretl Crash Course - Basics on how to handle datasets*](https://github.com/atecon/gretl_tutorials/blob/main/basics_datahandling.md) 
 
 # Wikis
 - [Gretl-project Wiki on github](https://github.com/gretl-project/material-on-gretl/wiki)
@@ -41,7 +42,7 @@ This page includes various links to material on or using gretl and which may be 
 ### Jordi Ripollés, Inmaculada Martínez-Zarzoso and Maite Alguacil *Dealing with Econometrics: Real World Cases with Cross-Sectional Data* (ENG)
 [Link](https://www.cambridgescholars.com/product/978-1-5275-8500-3)
 
-# Blog entries and tutorials
+# Blog entries
 
 [Carlos Andrade *Noções de econometria: tutorial com aplicação do software Gretl*](https://www.academia.edu/10072595/No%C3%A7%C3%B5es_de_econometria_tutorial_com_aplica%C3%A7%C3%A3o_do_software_Gretl)
 
@@ -56,9 +57,6 @@ This page includes various links to material on or using gretl and which may be 
 [Sonali Pandey *A beginner’s guide to Gretl using Simple Linear Regression*](https://medium.com/swlh/a-beginners-guide-to-gretl-using-simple-linear-regression-3023935df935)
 
 [Artur Tarassow *How to compile gretl on Ubuntu*](https://github.com/atecon/install_gretl_ubuntu)
-
-[Artur Tarassow *Gretl Crash Course - Basics on how to handle datasets
-*](https://github.com/atecon/gretl_tutorials/blob/main/basics_datahandling/basics_datahandling.md)
 
 
 # Datasets
