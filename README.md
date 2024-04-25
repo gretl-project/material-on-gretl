@@ -5,7 +5,7 @@ This page includes various links to material on or using gretl and which may be 
 
 # Cheat-sheet & Tutorials
 - [Gretl-Team *Cheat-sheet: How to handle data*](https://github.com/gretl-project/gretl_cheatsheet/blob/master/datahandling.pdf)
-- [A. Tarassow *Basics on how to handle datasets*](https://github.com/atecon/gretl_tutorials/blob/main/basics_datahandling.md)
+- [A. Tarassow *Basics on how to handle datasets*](https://github.com/atecon/gretl_tutorials/blob/main/basics_datahandling/basics_datahandling.md)
 - [A. Tarassow *Data visualisation with Gretl*](https://github.com/atecon/gretl_tutorials/blob/main/basics_visualisation/basics_visualisation.md) 
 
 # Wikis
