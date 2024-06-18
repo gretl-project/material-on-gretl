@@ -77,6 +77,8 @@ This page includes various links to material on or using gretl and which may be 
 
 [Lemenkova, Polina (2019): *Regression Models by Gretl and R Statistical Packages for Data Analysis in Marine Geology*, International Journal of Environmental Trends, 3(1), pp. 39-59.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3409149#)
 
+[Shackman, Gene (2024): *Free To Use Statistical Software: Comparing Statistical Analyses*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105959)
+
 [Shi, Juehui (2019): *Comprehensive Time-Series Regression Models Using Gretl — U.S. GDP and Government Consumption Expenditures & Gross Investment from 1980 to 2013*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2540535)
 
 [Tarassow, Artur (2019): *Practical Empirical Research Using gretl and hansl*, The Australian Economic Review](https://doi.org/10.1111/1467-8462.12324)
