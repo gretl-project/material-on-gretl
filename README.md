@@ -25,6 +25,9 @@ This page includes various links to material on or using gretl and which may be 
 
 [Student and lecturer resources](https://global.oup.com/uk/orc/busecon/economics/dougherty5e/)
 
+### Bjørnar Karlsen Kivedal *Applied Statistics and Econometrics. Basic Topics and Tools with Gretl and R* (2024, ENG)
+[Link to Springer](https://link.springer.com/book/10.1007/978-3-031-53142-2)
+
 ### Peter Hackl *Einführung in die Ökonometrie* (GER)
 [Link to Pearson](https://www.pearson.de/einfuehrung-in-die-oekonometrie-9783868941562) (2nd ed)
 
@@ -85,6 +88,7 @@ This page includes various links to material on or using gretl and which may be 
 
 [Tarassow, Artur (2023): *The potential of LLMs for coding with low-resource and domain-specific programming languages*, arXiv:2307.13018](https://arxiv.org/pdf/2307.13018.pdf)
 
+[Yalta, A.T., Cottrell, A. & Rodrigues, P.C. (2024): *Computational econometrics with gretl*, Comput Stat]( https://doi.org/10.1007/s00180-024-01523-z)
 
 # Videos
 
