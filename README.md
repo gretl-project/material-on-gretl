@@ -68,7 +68,17 @@ This page includes various links to material on or using gretl and which may be 
 
 
 # Lecture notes & slides
-[Allin Cottrell *ECN 215 : Econometric Theory and Methods*](https://users.wfu.edu/cottrell/ecn215/)
+[Allin Cottrell *ECN 215: Econometric Theory and Methods*](https://users.wfu.edu/cottrell/ecn215/)
+
+[Marta Régulez Castillo *Modelos de ecuaciones simultaneas con aplicaciones en Gretl* (SPA)](https://ocw.ehu.eus/course/view.php?id=227)
+
+[M. Victoria Esteban & M. Paz Moral & Susan Orbe & Marta Regúulez & Ainhoa Zarraga & Marian Zubia *Análisis de Regresión con Gretl* (SPA)](https://ocw.ehu.eus/file.php/132/gretl/gretl/Course_listing.html)
+
+[María Pilar González Casimiro & Susan Orbe Mandaluniz *Using Gretl for Applied Econometrics* (ENG)](https://ocw.ehu.eus/course/view.php?id=335)
+
+[Remigijus Lapinskas *A Very Short Introduction to Statistics*](https://klevas.mif.vu.lt/~rlapinskas/A%20Very%20Short%20Introduction%20to%20Statistics%20with%20GRETL.pdf)
+
+[Remigijus Lapinskas: *Practical Econometrics* (ENG, LIT)](https://klevas.mif.vu.lt/~rlapinskas/VISKAS%20-%20ALL%20IN%20ONE/)
 
 [Artur Tarassow: *Gretl und Hansl*](https://github.com/atecon/gretl_praesentation/blob/main/folien/2024_01_gretl_einf%C3%BChrung.pdf)
 
