@@ -17,6 +17,11 @@ This page includes various links to material on or using gretl and which may be 
 ### Lee Adkin's *Using gretl for Principles of Econometrics* (ENG)
 [Website incl. PDF, scripts and datasets](https://www.learneconometrics.com/gretl/index.html) (5th ed.)
 
+### Francis J. Bismans and Olivier Damette *Dynamic Econometrics. Models and Applications* (ENG)
+[Link to Springer](https://link.springer.com/book/10.1007/978-3-031-72910-2)
+
+[Electronic supplementary material](https://link.springer.com/chapter/10.1007/978-3-031-72910-2_6)
+
 ### A. Colin Cameron *ANALYSIS OF ECONOMICS DATA: AN INTRODUCTION TO ECONOMETRICS* (ENG)
 [Website incl. various materials](https://cameron.econ.ucdavis.edu/aed/)
 
