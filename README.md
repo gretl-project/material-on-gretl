@@ -44,6 +44,7 @@ This page includes various links to material on or using gretl and which may be 
 
 ### Jürgen Malitte & Sven Schreiber's *Ökonometrie verstehen mit Gretl* (GER)
 [Link to Springer](https://link.springer.com/book/10.1007%2F978-3-662-58275-6) (1st ed.)
+[Link to data files](https://github.com/gretl-project/dataset_ms_textbook)
 
 ### Riccardo "Jack" Lucchetti *Basic Econometrics)* (ENG)
 [Link to PDF](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)
