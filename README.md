@@ -11,9 +11,9 @@ This page includes various links to material on or using gretl and which may be 
 # Tutorials & Wiki
 - [Gretl-project Tutorials on github](https://github.com/gretl-project/material-on-gretl/wiki)
 - [Gretl-Team Wiki](https://gretlwiki.econ.univpm.it/index.php/Main_Page)
+- [Introductory Course to Gretl and Hansl Scripting](https://github.com/gretl-project/hansl-coding)
 
 # Books
-
 ### Lee Adkin's *Using gretl for Principles of Econometrics* (ENG)
 [Website incl. PDF, scripts and datasets](https://www.learneconometrics.com/gretl/index.html) (5th ed.)
 
