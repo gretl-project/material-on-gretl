@@ -34,7 +34,7 @@ This page includes various links to material on or using gretl and which may be 
 [Link to Springer](https://link.springer.com/book/10.1007/978-3-031-53142-2)
 
 ### Peter Hackl *Einführung in die Ökonometrie* (GER)
-[Link to Pearson](https://www.pearson.de/einfuehrung-in-die-oekonometrie-9783868941562) (2nd ed)
+[Link to Pearson](https://elibrary.pearson.de/book/99.150005/9783863266134) (2nd ed)
 
 ### Tadeusz Kufel *Ekonometria Rozwiązywanie problemów z wykorzystaniem programu GRETL* (POL)
 [Link](https://ksiegarnia.pwn.pl/Ekonometria-Rozwiazywanie-problemow-z-wykorzystaniem-programu-GRETL,68470501,p.html)
