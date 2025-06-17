@@ -9,7 +9,8 @@ This page includes various links to material on or using gretl and which may be 
 - [Gretl-Team *Cheat-sheet: How to handle data*](https://github.com/gretl-project/gretl_cheatsheet/blob/master/datahandling.pdf)
 - [Introductory Course to Gretl and Hansl Scripting](https://github.com/gretl-project/hansl-coding)
 - [A. Tarassow *Basics on how to handle datasets*](https://github.com/atecon/gretl_tutorials/blob/main/basics_datahandling/basics_datahandling.md)
-- [A. Tarassow *Data visualisation with Gretl*](https://github.com/atecon/gretl_tutorials/blob/main/basics_visualisation/basics_visualisation.md) 
+- [A. Tarassow *Data visualisation with Gretl*](https://github.com/atecon/gretl_tutorials/blob/main/basics_visualisation/basics_visualisation.md)
+- [A. Tarassow *Statistical Group Comparisons with Gretl*]([https://github.com/atecon/gretl_tutorials/blob/main/basics_visualisation/basics_visualisation.md](https://github.com/atecon/gretl_tutorials/blob/main/statistical_group_comparison/statistical_group_comparison.md))
 
 # Books
 ### Lee Adkin's *Using gretl for Principles of Econometrics* (ENG)
