@@ -143,5 +143,5 @@ This page includes various links to material on or using gretl and which may be 
 
 [Randomized Controlled Trials (RCT) using gretl](https://youtu.be/przn5z6BELo)
 
-### Research Methodology Advanced Tools (ENG)
+### Ashulekha Gupta (ENG)
 [Various introductory videos on basic steps can be found here](https://youtube.com/playlist?list=PL0LznEd65M-aXnVu6TGL7KnP7dHkCRzmQ&feature=shared)
