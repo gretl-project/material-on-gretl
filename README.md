@@ -145,3 +145,6 @@ This page includes various links to material on or using gretl and which may be 
 
 ### Ashulekha Gupta (ENG)
 [Various introductory videos on basic steps can be found here](https://youtube.com/playlist?list=PL0LznEd65M-aXnVu6TGL7KnP7dHkCRzmQ&feature=shared)
+
+### Lazarski Open Courses (ENG)
+[The *Lazarski Open Courses* channel shares many gretl tutorials on various aspects](https://www.youtube.com/@lazarskiopencourses4059/search?query=gretl)
