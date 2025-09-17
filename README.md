@@ -151,3 +151,6 @@ This page includes various links to material on or using gretl and which may be 
 
 ### GRETL-ECONOMETRIA by Elena D'Andrea (ENG)
 [Tutorials on regression, prediction and classification](https://youtube.com/playlist?list=PL_5QGNSBSe_ajXPWnOSmP33OUD4WsinOD&feature=shared)
+
+### Ahead of the Curve (ENG)
+[Shows time-series analyses such as ARIMA, Granger Causality, Co-integration, and VECM performed](https://youtu.be/ZQOezC2cacs?feature=shared)
