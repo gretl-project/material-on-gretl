@@ -148,3 +148,6 @@ This page includes various links to material on or using gretl and which may be 
 
 ### Lazarski Open Courses (ENG)
 [The *Lazarski Open Courses* channel shares many gretl tutorials on various aspects](https://www.youtube.com/@lazarskiopencourses4059/search?query=gretl)
+
+### GRETL-ECONOMETRIA by Elena D'Andrea (ENG)
+[Tutorials on regression, prediction and classification](https://youtube.com/playlist?list=PL_5QGNSBSe_ajXPWnOSmP33OUD4WsinOD&feature=shared)
