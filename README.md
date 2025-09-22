@@ -85,6 +85,8 @@ This page includes various links to material on or using gretl and which may be 
 
 [Remigijus Lapinskas: *Practical Econometrics* (ENG, LIT)](https://klevas.mif.vu.lt/~rlapinskas/VISKAS%20-%20ALL%20IN%20ONE/)
 
+[Martin Misson & Sina Wittenberg *Eine Einführung in die Ökonometriesoftware gretl*](https://ml.zmml.uni-bremen.de/uploads/material/5bc09e90d42f1c26038b4578/GretlManual_empwifo.pdf)
+
 [Artur Tarassow: *Gretl und Hansl*](https://github.com/atecon/gretl_praesentation/blob/main/folien/2024_01_gretl_einf%C3%BChrung.pdf)
 
 
