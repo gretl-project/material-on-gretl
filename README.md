@@ -133,7 +133,7 @@ This page includes various links to material on or using gretl and which may be 
 [Various gretl video tutorials on basic regression as well as time-series analysis](https://www.youtube.com/channel/UC8qMLi4Gyyl1DPjArTqob6w/videos)
 
 ### Markus Löcher (GER)
-[Various video tutorials on econometrics and statictis can be found here](https://media.hwr-berlin.de/search/title/gretl/description/gretl/tags/gretl/type/all/search/basic/categoriesopt/0)
+[Various video tutorials on econometrics and statistics can be found here](https://media.hwr-berlin.de/search/title/gretl/description/gretl/tags/gretl/type/all/search/basic/categoriesopt/0)
 
 ### Olesya Petrenko (RUS)
 [Youtube instructional videos for gretl in Russian can be found here](https://www.youtube.com/c/OlesyaPetrenko2014/featured)
